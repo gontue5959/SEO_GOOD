@@ -1,0 +1,29 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "SEO超級給力",
+    "description": "",
+    "home_page_url": "https://gontue5959.github.io/SEO_GOOD",
+    "feed_url": "https://gontue5959.github.io/SEO_GOOD/feed.json",
+    "user_comment": "",
+    "icon": "https://gontue5959.github.io/SEO_GOOD/media/website/SEOChao-Gei-Li_LOGO.png",
+    "author": {
+        "name": "Jimmy"
+    },
+    "items": [
+        {
+            "id": "https://gontue5959.github.io/SEO_GOOD/seoji-chu-zhi-shi.html",
+            "url": "https://gontue5959.github.io/SEO_GOOD/seoji-chu-zhi-shi.html",
+            "title": "SEO基礎知識",
+            "summary": "1.1 什麼是SEO? 定義及背景 搜索引擎優化（Search Engine Optimization，縮寫：SEO）是一組策略和技巧，用於提高網站在搜索引擎（例如Google、Bing、Yahoo等）的排名，從而增加網站的可見性並吸引更多的流量。 網際網路的爆炸性成長意味著網站的數量呈指數性增長。在這種競爭環境下，如何讓自己的網站在眾多網站中脫穎而出，這正是SEO的價值所在。 為什麼SEO很重要? 搜索引擎的運作方式 搜索引擎使用「爬蟲」來掃描網際網路，收集各種網站的資料，然後使用特定的算法決定這些網站在搜索結果中的排名。這些算法會考慮數百個因素，包括網站內容的質量、外部連結的數量、用戶行為等。 關鍵字的重要性 當用戶在搜索引擎中輸入查詢時，他們使用的是「關鍵字」或「關鍵詞組」。SEO的目標之一是確保您的網站包含與您業務相關的關鍵字，這樣當用戶搜索這些關鍵字時，您的網站就有可能出現在搜索結果中。 了解兩者的差異及風險 白帽SEO: 是指遵循搜索引擎的指南和最佳做法進行的優化。這些方法通常較為持久且不會因搜索引擎的更新而受到懲罰。 黑帽SEO: 是指使用一些欺騙性的技巧來提高網站排名，這些技巧通常違反搜索引擎的指南。雖然黑帽SEO可能會帶來短期的好處，但它增加了被懲罰的風險，可能會導致流量大幅下降甚至網站被移除搜索結果。",
+            "content_html": "<h3>1.1 什麼是SEO?</h3>\n<p><strong>定義及背景</strong></p>\n<p>搜索引擎優化（Search Engine Optimization，縮寫：SEO）是一組策略和技巧，用於提高網站在搜索引擎（例如Google、Bing、Yahoo等）的排名，從而增加網站的可見性並吸引更多的流量。</p>\n<p>網際網路的爆炸性成長意味著網站的數量呈指數性增長。在這種競爭環境下，如何讓自己的網站在眾多網站中脫穎而出，這正是SEO的價值所在。</p>\n<p><strong>為什麼SEO很重要?</strong></p>\n<ul>\n<li><strong>流量質量</strong>: SEO可以吸引有意圖的訪客，這些訪客是通過搜索引擎主動搜索相關內容和服務的。</li>\n<li><strong>免費流量</strong>: 與付費廣告相比，SEO帶來的流量是免費的。一旦優化達到頂尖，您將持續獲得流量，而無需支付任何費用。</li>\n<li><strong>提高品牌可信度</strong>: 排名在搜索引擎首頁的網站通常被視為更具可信度和專業性。</li>\n</ul>\n<h3>1.2 SEO的工作原理</h3>\n<p><strong>搜索引擎的運作方式</strong></p>\n<p>搜索引擎使用「爬蟲」來掃描網際網路，收集各種網站的資料，然後使用特定的算法決定這些網站在搜索結果中的排名。這些算法會考慮數百個因素，包括網站內容的質量、外部連結的數量、用戶行為等。</p>\n<p><strong>關鍵字的重要性</strong></p>\n<p>當用戶在搜索引擎中輸入查詢時，他們使用的是「關鍵字」或「關鍵詞組」。SEO的目標之一是確保您的網站包含與您業務相關的關鍵字，這樣當用戶搜索這些關鍵字時，您的網站就有可能出現在搜索結果中。</p>\n<h3>1.3 白帽與黑帽SEO</h3>\n<p><strong>了解兩者的差異及風險</strong></p>\n<ul>\n<li>\n<p><strong>白帽SEO</strong>: 是指遵循搜索引擎的指南和最佳做法進行的優化。這些方法通常較為持久且不會因搜索引擎的更新而受到懲罰。</p>\n</li>\n<li>\n<p><strong>黑帽SEO</strong>: 是指使用一些欺騙性的技巧來提高網站排名，這些技巧通常違反搜索引擎的指南。雖然黑帽SEO可能會帶來短期的好處，但它增加了被懲罰的風險，可能會導致流量大幅下降甚至網站被移除搜索結果。</p>\n</li>\n</ul>",
+            "image": "https://gontue5959.github.io/SEO_GOOD/media/posts/1/_7e1d38dc-30ae-4fb0-b92b-b8c5617faf2c.jpg",
+            "author": {
+                "name": "Jimmy"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-10-03T22:15:21+08:00",
+            "date_modified": "2023-10-03T22:15:21+08:00"
+        }
+    ]
+}
